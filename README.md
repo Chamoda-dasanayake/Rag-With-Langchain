@@ -82,5 +82,5 @@ LLM (Groq) → Generate Answer based on Context
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/RagWithLangchain.git
+git clone https://github.com/Chamoda-dasanayake/Rag-With-Langchain
 cd RagWithLangchain
